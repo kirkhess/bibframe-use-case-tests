@@ -6,7 +6,7 @@ Providers
 
 ## description
 
-Providers as events, take 2.  Type is class.  Complex, but coherent.
+Providers as events, take 2.  Property relates event.  Generic event type is class.  Complex, but coherent.
 
 ## id
 
