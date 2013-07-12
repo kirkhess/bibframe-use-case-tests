@@ -21,6 +21,7 @@ test20
 * modeling holdings
 * holdings as annotations
 * items as holdings
+* holdings paper
 
 ## tags
 

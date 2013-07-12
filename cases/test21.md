@@ -6,7 +6,7 @@ Modeling Holdings
 
 ## description
 
-BL Holding example from Appendix D of Holdings Paper modeled as Holding Annotations.  Item as holding.
+BL Holding example from Appendix E of Holdings Paper modeled as Holding Annotations.  Item as holding.
 
 ## id
 
@@ -21,6 +21,7 @@ test21
 * modeling holdings
 * holdings as annotations
 * items as holdings
+* holdings paper
 
 ## tags
 
