@@ -28,7 +28,7 @@ uc2013-1
 
 ## status
 
-open
+* open
 
 # Monograph
 

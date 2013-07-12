@@ -28,7 +28,7 @@ tes10
 
 ## status
 
-open
+* open
 
 # Monograph
 

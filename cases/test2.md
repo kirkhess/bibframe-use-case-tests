@@ -27,7 +27,7 @@ kvb2013i
 
 ## status
 
-open
+* open
 
 # Book
 

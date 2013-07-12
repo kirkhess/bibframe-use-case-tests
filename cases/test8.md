@@ -28,7 +28,7 @@ test8
 
 ## status
 
-open
+* open
 
 # Monograph
 

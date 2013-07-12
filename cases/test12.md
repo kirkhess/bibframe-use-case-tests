@@ -29,7 +29,7 @@ test12
 
 ## status
 
-open
+* open
 
 ## note
 

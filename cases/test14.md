@@ -30,7 +30,7 @@ test1
 
 ## status
 
-open
+* open
 
 ## note
 

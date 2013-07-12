@@ -34,7 +34,7 @@ test11
 
 ## status
 
-open
+* open
 
 # LanguageMaterial
 
