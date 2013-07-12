@@ -64,12 +64,12 @@ open
 * extent: 71p. ; ill., charts (col.) ; 30cm
 * publication: <http://bnb.data.bl.uk/id/provider/12345>
 
-# Event ProviderEntity 
+# Event ProviderEvent 
 
 * id: <http://bnb.data.bl.uk/id/provider/12345>
-* provider: <http://bnb.data.bl.uk/id/organization/AuditCommission>
-* providerPlace: London
-* providerDate: 2004
+* eventActor: <http://bnb.data.bl.uk/id/organization/AuditCommission>
+* eventPlace: London
+* eventDate: 2004
 
 # Annotation Holding
 
@@ -104,20 +104,46 @@ open
 * note: From title page (viewed 2006)
 * encodingFormat: HTML
 
-# Event ProviderEntity
+# Event ProviderEvent
 
 * id: <http://bnb.data.bl.uk/id/provider/23456>
-* provider: <http://bnb.data.bl.uk/id/organization/AuditCommission>
-* providerPlace: London
-* providerDate: 2006
+* eventActor: <http://bnb.data.bl.uk/id/organization/AuditCommission>
+* eventPlace: London
+* eventDate: 2006
 
 # Annotation Holding
 
 * id: <http://bnb.data.bl.uk/id/resource/015816044H4>
-* annotates: <http://bnb.data.bl.uk/id/resource/015816022Instance2BL>
+* annotates: <http://bnb.data.bl.uk/id/resource/015816022Instance2BLhtml>
 * annotationAssertedBy: National Library of Scotland
 * location: National Library of Scotland
 * location: British Library
 * accessRestrictions: Single user, single LDL
 * methodOfAcquisition: Legal Deposit
 * shelfmark: m06/.34484
+
+# Instance Document 
+
+* id: <http://bnb.data.bl.uk/id/resource/015816022Instance3BLpdf>
+* instanceOf: <http://bnb.data.bl.uk/id/resource/015816022W>
+* title: Support for carers of older people
+* publication: <http://bnb.data.bl.uk/id/provider/345657>
+* note: From title page (viewed 2008)
+* encodingFormat: PDF
+
+# Event ProviderEvent
+
+* id: <http://bnb.data.bl.uk/id/provider/34567>
+* eventActor: <http://bnb.data.bl.uk/id/organization/AuditCommission>
+* eventPlace: London
+* eventDate: 2008
+
+# Annotation Holding
+
+* id: <http://bnb.data.bl.uk/id/resource/015816022HoldingAnnotation3BLpdf>
+* annotates: <http://bnb.data.bl.uk/id/resource/015816022Instance3BLpdf>
+* annotationAssertedBy: British Library
+* methodOfAcquisition: Legal Deposit
+* shelfmark: m06/.34484
+* location: <http://bl.uk/pdf/015816022.pdf>
+* accessRestrictions: none

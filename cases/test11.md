@@ -76,7 +76,7 @@ open
 # Instance Item
 
 * id: <http://bnb.data.bl.uk/id/resource/015816022Item1BLprint>
-* itemOf: <http://bnb.data.bl.uk/id/resource/015816022Instance1BL>
+* itemOf: <http://bnb.data.bl.uk/id/resource/015816022Instance1BLprint>
 * methodOfAcquisition: Legal Deposit
 * physicalCondition: Page 1 missing
 * shelfmark: C.199.b.134
@@ -95,7 +95,7 @@ open
 # Instance Item
 
 * id: <http://bnb.data.bl.uk/id/resource/015816022Item2BLprint>
-* itemOf: <http://bnb.data.bl.uk/id/resource/015816022Instance1BL>
+* itemOf: <http://bnb.data.bl.uk/id/resource/015816022Instance1BLprint>
 * methodOfAcquisition: Purchase
 * shelfmark: m06/.34483
 * hasHoldingAnnotation: <http://bnb.data.bl.uk/id/resource/015816022HoldingAnnotation2BLprint>
@@ -119,7 +119,7 @@ open
 * publication: <http://bnb.data.bl.uk/id/provider/23456>
 * note: From title page (viewed 2006)
 * encodingFormat: HTML
-* hasItem: <http://bnb.data.bl.uk/id/resource/015816022Item3BLhtml>
+* hasItem: <http://bnb.data.bl.uk/id/resource/015816022Item2BLhtml>
 
 # Event ProviderEntity
 
@@ -130,18 +130,52 @@ open
 
 # Instance Item
 
-* id: <http://bnb.data.bl.uk/id/resource/015816022Item3BLhtml>
-* itemOf: <http://bnb.data.bl.uk/id/resource/015816022Instance2BL>
+* id: <http://bnb.data.bl.uk/id/resource/015816022Item2BLhtml>
+* itemOf: <http://bnb.data.bl.uk/id/resource/015816022Instance2BLhtml>
 * methodOfAcquisition: Legal Deposit
 * shelfmark: m06/.34484
-* hasHoldingAnnotation: <http://bnb.data.bl.uk/id/resource/015816022HoldingAnnotation3BLonline>
+* hasHoldingAnnotation: <http://bnb.data.bl.uk/id/resource/015816022HoldingAnnotation2BLhtml>
 
 # Annotation Holding
 
-* id: <http://bnb.data.bl.uk/id/resource/015816044H4>
-* annotates: <http://bnb.data.bl.uk/id/resource/015816022Instance3BL>
+* id: <http://bnb.data.bl.uk/id/resource/015816022HoldingAnnotation2BLhtml>
+* annotates: <http://bnb.data.bl.uk/id/resource/015816022Item2BLhtml>
 * annotationAssertedBy: National Library of Scotland
 * annotationBody: [ 
    bfp:location "National Library of Scotland" ;
    bfp:location "British Library" ;
    bfp:accessRestrictions "Single user, single LDL" ]
+
+# Instance Document 
+
+* id: <http://bnb.data.bl.uk/id/resource/015816022Instance3BLpdf>
+* instanceOf: <http://bnb.data.bl.uk/id/resource/015816022W>
+* title: Support for carers of older people
+* publication: <http://bnb.data.bl.uk/id/provider/345657>
+* note: From title page (viewed 2008)
+* encodingFormat: PDF
+* hasItem: <http://bnb.data.bl.uk/id/resource/015816022Item3BLpdf>
+
+# Event ProviderEntity
+
+* id: <http://bnb.data.bl.uk/id/provider/34567>
+* provider: <http://bnb.data.bl.uk/id/organization/AuditCommission>
+* providerPlace: London
+* providerDate: 2008
+
+# Instance Item
+
+* id: <http://bnb.data.bl.uk/id/resource/015816022Item3BLpdf>
+* itemOf: <http://bnb.data.bl.uk/id/resource/015816022Instance3BLpdf>
+* methodOfAcquisition: Legal Deposit
+* shelfmark: m06/.34484
+* hasHoldingAnnotation: <http://bnb.data.bl.uk/id/resource/015816022HoldingAnnotation3BLpdf>
+
+# Annotation Holding
+
+* id: <http://bnb.data.bl.uk/id/resource/015816022HoldingAnnotation3BLpdf>
+* annotates: <http://bnb.data.bl.uk/id/resource/015816022Item3BLpdf>
+* annotationAssertedBy: British Library
+* annotationBody: [ 
+   bfp:location "http://bl.uk/pdf/015816022.pdf" ;
+   bfp:accessRestrictions "none" ]
