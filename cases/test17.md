@@ -36,7 +36,8 @@ test17
 
 ## status
 
-open
+* closed
+* rejected
 
 # Work LanguageMaterial
 

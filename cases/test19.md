@@ -36,7 +36,8 @@ test19
 
 ## status
 
-open
+* closed
+* selected
 
 # Work LanguageMaterial
 
