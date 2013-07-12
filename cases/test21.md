@@ -14,7 +14,8 @@ test21
 
 ## relatedtests
 
-* test20
+* test22
+* test23
 
 ## issues
 
@@ -27,7 +28,6 @@ test21
 
 * holdings
 * annotations
-* items
 * serials
 
 ## created

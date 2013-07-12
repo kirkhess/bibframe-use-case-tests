@@ -14,7 +14,7 @@ test20
 
 ## relatedtests
 
-* test21
+* --
 
 ## issues
 
@@ -27,7 +27,7 @@ test20
 
 * holdings
 * annotations
-* items
+* monographs
 
 ## created
 
