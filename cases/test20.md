@@ -86,7 +86,7 @@ test20
 
 # Annotation Holding
 
-* id: <http://bnb.data.bl.uk/id/resource/h003985048-1>
+* id: <http://bnb.data.bl.uk/id/resource/h003985048-2>
 * annotates: <http://bnb.data.bl.uk/id/resource/i003985048-1>
 * annotationAssertedBy: British Library
 * location: British Library
