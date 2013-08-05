@@ -14,13 +14,11 @@ wildlifeWork
 
 ## issues
 
-* issue001
-* issue002
+* annotations model
 
 ## tags
 
-* Use Cases
-* Notification Services
+* annotation
 
 ## created
 
