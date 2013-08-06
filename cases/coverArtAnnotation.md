@@ -55,5 +55,5 @@ CoverArtAnnotation
 * coverArt:   resources/images/coverArt.jpg
 * coverArtThumb: resources/images/coverArtThumb.jpg
 * annotationAssertedBy: CoverArtAnnotationCase-Authority
-* dateOfAssertion 
+* dateOfAssertion: 20131010
 
