@@ -2,7 +2,7 @@
 
 ## label
 
-Annotation -  Cover Art - Wildlife sanctuaries and the Audubon Society
+Annotation -  Cover Art 
 
 ## description
 
