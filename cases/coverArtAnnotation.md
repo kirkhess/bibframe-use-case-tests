@@ -48,7 +48,7 @@ CoverArtAnnotation
 * derivedFrom: <http://id.loc.gov/resources/bibs/11778563>
 * isbn: 0292704992
  
-# CoverArt: 
+# CoverArt
 
 * id: <http://xyz.org/bibframeTestCases/CoverArtAnnotation/Annotation>
 * annotates: <http://xyz.org/bibframeTestCases/CoverArtAnnotation/Instance>
