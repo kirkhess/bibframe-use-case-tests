@@ -49,8 +49,7 @@ AnnotationReviewExternal
 * annotationAssertedBy:
 <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority2>
 * dateOfAssertion: 20130806
-* :annotationSource:   
-<http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority1>
+* :annotationSource:   <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority1>
 
 
 
