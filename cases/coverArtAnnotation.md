@@ -6,7 +6,7 @@ Annotation -  Cover Art
 
 ## description
 
-BF Work, Instance and CoverArt Annotation for: Anderson, John M. (John Merrick) Wildlife sanctuaries and the Audubon Society : places to hide and seek
+BF Work, Instance CoverArt, and Authority; for the Annotation of: Anderson, John M. (John Merrick) Wildlife sanctuaries and the Audubon Society : places to hide and seek
 
 ## id
 
@@ -56,4 +56,8 @@ CoverArtAnnotation
 * coverArtThumb: <http://xyz.org/bibframeTestCases/CoverArtAnnotation/coverArtThumb.jpg>
 * annotationAssertedBy: <http://xyz.org/bibframeTestCases/CoverArtAnnotation/Authority>
 * dateOfAssertion: 20131010
+
+#Organization
+* id: <http://xyz.org/bibframeTestCases/CoverArtAnnotation/Authority>
+* authorizedAccessPoint: Ray's Annotation Service
 
