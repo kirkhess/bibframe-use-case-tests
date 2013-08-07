@@ -53,7 +53,7 @@ AnnotationReviewExternal
 
 
 #Person
-* id: http://xyz.org/bibframeTestCases/Annotations/Authority/vonnegut>
+* id: <http://xyz.org/bibframeTestCases/Annotations/Authority/vonnegut>
 * authorizedAccessPoint: Vonnegut, Kurt
 
 #Organization
