@@ -46,10 +46,9 @@ AnnotationReviewExternal
 * annotates: http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Work
 * reviewStart:   BY the high imaginative standards of Kurt Vonnegut at his best - 'Cat's Cradle' and 'slaughterhouse-Five' come to mind - 'Bluebeard,' it seems to me, is a minor achievement. .....
 * fullReview: http://www.nytimes.com/books/97/09/28/lifetimes/vonnegut-bluebird.html
-* annotationAssertedBy:
-<http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority2>
+* annotationAssertedBy: <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority2>
 * dateOfAssertion: 20130806
-* :annotationSource:   <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority1>
+* annotationSource:   <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority1>
 
 
 
