@@ -32,33 +32,34 @@ AnnotationReviewExternal
 
 # Monograph 
 
-* id: <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Work>
+* id: <http://xyz.org/bibframeTestCases/Annotations/Work/bluebeard>
 * authoritativeLabel: Vonnegut, Kurt – Bluebeard: a Novel
 * title: Bluebeard
 * titleRemainder: a Novel
-* author: <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority1>
+* author: <http://xyz.org/bibframeTestCases/Annotations/Authority/vonnegut>
 * classification: 025.3 M465f 2008
 * language: English
 
 # Review
 
-* id: <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Annotation>
-* annotates: http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Work
+* id: <http://xyz.org/bibframeTestCases/Annotations/Annotation/ReviewExternal/ >
+* annotates: http://xyz.org/bibframeTestCases/Annotations/Work.bluebeard
 * reviewStart:   BY the high imaginative standards of Kurt Vonnegut at his best - 'Cat's Cradle' and 'slaughterhouse-Five' come to mind - 'Bluebeard,' it seems to me, is a minor achievement. .....
 * fullReview: http://www.nytimes.com/books/97/09/28/lifetimes/vonnegut-bluebird.html
-* annotationAssertedBy: <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority2>
+* annotationAssertedBy:  <http://xyz.org/bibframeTestCases/Annotations/Annotation/Authority/RaysAnnotationService>
 * dateOfAssertion: 20130806
-* annotationSource:   <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority1>
+* annotationSource:   <http://xyz.org/bibframeTestCases/Annotations/Authority/NYTimesReviews>
 
 
 
 #Person
-* id: <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority1>
+* id: http://xyz.org/bibframeTestCases/Annotations/Authority/vonnegut>
 * authorizedAccessPoint: Vonnegut, Kurt
 
 #Organization
-* id: <http://xyz.org/bibframeTestCases/AnnotationReviewExternal/Authority2>
+* id: <http://xyz.org/bibframeTestCases/Annotations/Authority/NYTimesReviews>
 * authorizedAccessPoint: New York Times Reviews
 
-
-
+#Organization
+* id: <http://xyz.org/bibframeTestCases/Annotations/Authority/RaysAnnotationService>
+* authorizedAccessPoint: Ray’s Annotation Service
