@@ -43,6 +43,7 @@ AnnotationHolding
 
 * id: <http://xyz.org/bibframeTestCases/Annotations/Annotation/Holding>
 * holds: http://xyz.org/bibframeTestCases/Annotations/Instance/Bluebeard
+* heldBy: http://id.loc.gov/vocabulary/organizations/dlc
 * annotationAssertedBy: <http://id.loc.gov/vocabulary/organizations/dlc>
 * dateOfAssertion: 20130807
 * subLocation: Jefferson or Adams Building Reading Rooms
