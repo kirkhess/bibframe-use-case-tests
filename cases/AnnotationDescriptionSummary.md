@@ -47,8 +47,9 @@ AnnotationDescriptionSummary
 * summarizes: <http://xyz.org/bibframeTestCases/Annotations/Work/orderAndProgress>
 * summary: In this account of five centuries of political development in Brazil, Dr Schneider examines the causes and consequences of the enduring tension between order and progress - the two goals expressed in the country's national motto. He focuses on the historical roles of the three actors at the centre of Brazil's national life that have traditionally favoured order: the Church, the military, and the propertied classes. At the same time he gives careful consideration to the champions of progress, such as urban professionals, the intelligentsia and the middle class. The author weaves in discussion of the social and economic life of Brazil and how it has influenced political development since the colonial era.
 * annotationAssertedBy: <http://xyz.org/bibframeTestCases/Annotations/Authority/RaysAnnotationService>
-* annotationSource:   <http://xyz.org/bibframeTestCases/Annotations/Authority/Wikipedia>
-* dateOfAssertion: 20130807
+* annotationSource:   <http://xyz.org/bibframeTestCases/Annotations/Authority/Amazon>
+* annotationSourceLink: <http://www.amazon.com/Order-And-Progress-Political-History/dp/0813310768>
+* dateOfAssertion: 20130809
 
 
 #Person
@@ -62,4 +63,4 @@ AnnotationDescriptionSummary
 
 #Organization
 * id: <http://xyz.org/bibframeTestCases/Annotations/Authority/Amazon>
-* authorizedAccessPoint: Wikipedia
+* authorizedAccessPoint: Amazon
