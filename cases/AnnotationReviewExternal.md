@@ -43,7 +43,7 @@ AnnotationReviewExternal
 # Review
 
 * id: <http://xyz.org/bibframeTestCases/Annotations/Annotation/ReviewExternal/ >
-* annotates: http://xyz.org/bibframeTestCases/Annotations/Work.bluebeard
+* annotates: http://xyz.org/bibframeTestCases/Annotations/Work/bluebeard
 * reviewStart:   BY the high imaginative standards of Kurt Vonnegut at his best - 'Cat's Cradle' and 'slaughterhouse-Five' come to mind - 'Bluebeard,' it seems to me, is a minor achievement. .....
 * fullReview: http://www.nytimes.com/books/97/09/28/lifetimes/vonnegut-bluebird.html
 * annotationAssertedBy:  <http://xyz.org/bibframeTestCases/Annotations/Authority/RaysAnnotationService>
