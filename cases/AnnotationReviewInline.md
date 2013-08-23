@@ -45,7 +45,7 @@ AnnotationReviewInline
 
 * id: <http://xyz.org/bibframeTestCases/Annotations/Annotation/ReviewInline/>
 * annotates: <http://xyz.org/bibframeTestCases/Annotations/Work/bluebeard>
-* inlineReview:   Well it ain't no Cats Cradle but still vintage Vonnegut
+* review:   Well it ain't no Cats Cradle but still vintage Vonnegut
 * annotationAssertedBy:  <http://xyz.org/bibframeTestCases/Annotations/Annotation/Authority/RaysAnnotationService>
 * payloadSource:   <http://xyz.org/bibframeTestCases/Annotations/Annotation/Authority/RaysAnnotationService>
 * dateOfAssertion: 20130807
