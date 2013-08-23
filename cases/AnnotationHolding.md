@@ -48,6 +48,8 @@ AnnotationHolding
 * dateOfAssertion: 20130807
 * subLocation: Jefferson or Adams Building Reading Rooms
 * callNumber: PS3572.O5 B5 1987C
-* copyNote: copy 1
-* copyNote: Another issue. With additional prefixed leaf stating 'This edition signed by the author, is limited to 500 copies.' Boxed. LC has copy no. 157
+* copyNote: copy 157
+* copyNote: Signed by the author.
+* copyId: 71234
+* circulationStatus: non-circulating
 * accessCondition: Access is restricted; consult library for details
