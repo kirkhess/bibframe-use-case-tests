@@ -47,8 +47,8 @@ AnnotationDescriptionSummary
 * describes: <http://xyz.org/bibframeTestCases/Annotations/Work/orderAndProgress>
 * description: In this account of five centuries of political development in Brazil, ...
 * annotationAssertedBy: <http://xyz.org/bibframeTestCases/Annotations/Authority/RaysAnnotationService>
-* annotationSource:   <http://xyz.org/bibframeTestCases/Annotations/Authority/Amazon>
-* annotationSourceLink: <http://www.amazon.com/Order-And-Progress-Political-History/dp/0813310768>
+* payloadSource:   <http://xyz.org/bibframeTestCases/Annotations/Authority/Amazon>
+* payloadSourceLink: <http://www.amazon.com/Order-And-Progress-Political-History/dp/0813310768>
 * dateOfAssertion: 20130809
 
 
