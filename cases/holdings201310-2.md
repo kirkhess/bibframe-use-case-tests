@@ -24,8 +24,8 @@ holdings201310-2
 
 ## tags
 
-* holding
-* annotation
+* holdings
+* annotations
 
 ## created
 
