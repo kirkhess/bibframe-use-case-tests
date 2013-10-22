@@ -19,8 +19,8 @@ AnnotationHolding
 
 ## tags
 
-* annotation
-* holding
+* annotations
+* holdings
 
 ## created
 

@@ -19,7 +19,7 @@ AnnotationDescription
 
 ## tags
 
-* annotation
+* annotations
 * Description
 
 ## created

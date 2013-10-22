@@ -19,7 +19,7 @@ AnnotationReviewExternal
 
 ## tags
 
-* annotation
+* annotations
 * Review
 
 ## created

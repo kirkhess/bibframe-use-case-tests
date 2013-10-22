@@ -19,7 +19,7 @@ AnnotationCoverArt
 
 ## tags
 
-* annotation
+* annotations
 * CoverArt
 
 ## created

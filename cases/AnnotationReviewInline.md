@@ -19,7 +19,7 @@ AnnotationReviewInline
 
 ## tags
 
-* annotation
+* annotations
 * Review
 
 ## created
