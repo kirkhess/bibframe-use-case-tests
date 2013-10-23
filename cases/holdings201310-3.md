@@ -6,7 +6,7 @@ Bound With Example: Method A (expanded)
 
 ## description
 
-From Leif Andresen: "A binding in one library of more than one text without any connection (example: five short stories published individually, but bundled together of the library in one binding)"  This example makes the bounded volume a type of local, constructed BIBFRAME Work, which contains two additional BIBFRAME Works. There is an Instance of the ConstructedWork and a Holding that points to the Instance.  Unliked Method A (simple), this test case includes multiple Instances of the bounded works.  The Instance for the bounded collection relates to individual Instances of the bounded works in order to record which Instance of a bounded Work is included in the bounded Instance. See, listserv.loc.gov/cgi-bin/wa?A2=ind1310&L=bibframe&T=0&X=566B2540DBDD7AEA03&P=1202
+From Leif Andresen: "A binding in one library of more than one text without any connection (example: five short stories published individually, but bundled together of the library in one binding)"  This example makes the bounded volume a type of local, constructed BIBFRAME Work, which contains two additional BIBFRAME Works. There is an Instance of the ConstructedCollection and a Holding that points to the Instance.  Unliked Method A (simple), this test case includes multiple Instances of the bounded works.  The Instance for the bounded collection relates to individual Instances of the bounded works in order to record which Instance of a bounded Work is included in the bounded Instance. See, listserv.loc.gov/cgi-bin/wa?A2=ind1310&L=bibframe&T=0&X=566B2540DBDD7AEA03&P=1202
 
 ## id
 
