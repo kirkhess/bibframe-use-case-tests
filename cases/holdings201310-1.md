@@ -2,7 +2,7 @@
 
 ## label
 
-Bound With Example: Method A
+Bound With Example: Method A (simple)
 
 ## description
 
@@ -15,6 +15,7 @@ holdings201310-1
 ## relatedtests
 
 * holdings201310-2
+* holdings201310-3
 
 ## issues
 

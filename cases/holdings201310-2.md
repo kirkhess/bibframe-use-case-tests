@@ -15,6 +15,7 @@ holdings201310-2
 ## relatedtests
 
 * holdings201310-1
+* holdings201310-3
 
 ## issues
 
