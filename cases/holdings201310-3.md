@@ -49,8 +49,8 @@ holdings201310-3
 
 * id: <http://library.edu/resources/instances/1>
 * instanceOf: <http://library.edu/resources/works/boundwith>
-* includes: <http://library.edu/resources/instances/2>
-* includes: <http://library.edu/resources/instances/4>
+* comprises: <http://library.edu/resources/instances/2>
+* comprises: <http://library.edu/resources/instances/4>
 * format: printed
 * binding: library
 
